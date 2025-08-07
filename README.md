@@ -9,7 +9,6 @@ Platform: GitHub (for code hosting)
 
 📂 Project Files:
 web.py: Main Python script that fetches and prints headlines.
-bbc_text.txt
 README.md
 
 🧑‍💻 Steps to Run the Project:
